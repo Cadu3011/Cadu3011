@@ -11,7 +11,7 @@
   <img align="center" alt="Cadu-PHP" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt= "Cadu-Mysql" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">       
   <img align="center" alt="Cadu-Nest" height="35" width="40" src="https://nestjs.com/img/logo_text.svg">
-  <img align="center" alt="Cadu-TS" height="35" width="40" src="https://raw.githubusercontent.com/microsoft/TypeScript/main/logo/logo.svg">
+  <img align="center" alt="Cadu-TS" height="35" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/TypeScript_logo_2020.svg">
   <img align="center" alt="Cadu-VS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Cadu-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div><br>
