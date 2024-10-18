@@ -10,7 +10,7 @@
   <img align="center" alt="Cadu-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Cadu-PHP" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt= "Cadu-Mysql" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">       
-  <img align="center" alt="Cadu-Nest" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestJS/nestJS-original.svg">
+  <img align="center" alt="Cadu-Nest" height="35" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/nestJS/nestJS-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdocs.nestjs.com%2F&psig=AOvVaw0u_zHg6BnZ6Zt1eVqw0Z0P&ust=1729343254430000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNiV8uT_l4kDFQAAAAAdAAAAABAP)">
   <img align="center" alt="Cadu-VS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Cadu-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div><br>
